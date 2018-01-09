@@ -10,3 +10,5 @@ Programs in Pascal.  Numerical Analysis
  - ln <br>
  - expo <br>  
 2. Bisection <br>
+3. Secant and Newton <br>
+4. Lagrange
