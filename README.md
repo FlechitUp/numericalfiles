@@ -1,5 +1,5 @@
-# numericalfiles
-Programs in Pascal.  Numerical Analysis
+# Numerical Analysis
+Programs in Pascal.  Numerical Analysis console programs.
 
 **Content**
 
