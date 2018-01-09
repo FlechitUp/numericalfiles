@@ -9,3 +9,4 @@ Programs in Pascal.  Numerical Analysis
  - arcth <br>
  - ln <br>
  - expo <br>  
+2. Bisection <br>
