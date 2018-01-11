@@ -16,3 +16,4 @@ Programs in Pascal.  Numerical Analysis console programs.
 6. Simpsons 1/3 and 3/8 <br>
 7. Runge Kutta 4 <br>
 8. Euler <br>
+9. Matrices Operations <br>
